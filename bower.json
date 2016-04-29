@@ -1,0 +1,20 @@
+{
+  "name": "venchur",
+  "authors": [
+    "Lucas-M <lucas.macd@gmail.com>"
+  ],
+  "description": "venchur server",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  }
+}
