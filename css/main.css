@@ -4,7 +4,7 @@ html {
     color: white;
     font-size: 1em;
     line-height: 1.4;
-    background-color: black;
+    background-color: grey;
 }
 
 ::-moz-selection {
